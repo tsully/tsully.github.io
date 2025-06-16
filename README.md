@@ -15,7 +15,7 @@ I've lived many lives - software engineer, management consultant, founder, commu
 
 ## Coordination technology
 
-I'm co-founder of Ize, a platform for collective attention and action. You can think of it as "Zapier for collective intelligence". I built Ize as a solo-founder and engineer from Jan 2024 through March 2025.
+I'm founder of Ize, a platform for collective attention and action. You can think of it as "Zapier for collective intelligence". I built Ize as a solo-founder and engineer from Jan 2024 through March 2025.
 
 - You can check out a demo [here](https://vimeo.com/1056860875)
 - Read the postmortem [here](https://tysullberg.substack.com/p/collective-attention-as-a-service).
