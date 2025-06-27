@@ -42,8 +42,8 @@ Meditation is a big part of my life. I started with Mahasi-style Vipassana back 
 
 ## Publications
 
-- [Relational AI: Designing Agents for Human Systems](https://tysullberg.substack.com/p/relational-ai-designing-agents-for)
-- [Collective Attention as a Service: A Postmortem of Ize 👀](https://tysullberg.substack.com/p/collective-attention-as-a-service): Exploration of what motivated Ize's design, why it didn't work, and what the next generation of coordination tools can learn from the Ize experiment.
+- [Relational AI: Designing Agents for Human Systems](https://tysullberg.substack.com/p/relational-ai-designing-agents-for): A framework for designing AI agents that navigate the messy reality of human meaning, trust, and attention.
+- [Collective Attention as a Service: A Postmortem of Ize 👀](https://tysullberg.substack.com/p/collective-attention-as-a-service): Exploring what motivated Ize's design, why it didn't work, and what the next generation of coordination tools can learn from the Ize experiment.
 - [Metagov: "Beyond DAOs: Design Decisions for Internet Organizations"](https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104): Deep dive into designing how membership, power, and value flow through internet organizations.
 - [Active Inference Institute: "Governing Continuous Transformation" Livestream Series](https://www.youtube.com/watch?v=thO3nsvgego): Explores applying the principles of Active Inference and Free Energy in an organizational design context.
 - [4K protocol whitepaper](https://4k.com/whitepaper.pdf): Decentralized protocol for on-chain physical property rights.
