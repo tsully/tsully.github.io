@@ -10,7 +10,7 @@ I've lived many lives - software engineer, management consultant, founder, commu
 [X](https://twitter.com/tysullberg) |
 [GitHub](https://github.com/tsully) |
 [Calendly](https://cal.com/tyler-sullberg) |
-[Resume](https://drive.google.com/file/d/1PsjCqfL7mSNBzbtM3CpdU2MrZNCeHpKr/view?usp=sharing) |
+[Resume](https://drive.google.com/file/d/1l5L7gBZwIo6JBmHUX1hYgXCGL6z941Ez/view?usp=sharing) |
 [Email](mailto:tysullberg@gmail.com)
 
 ## Coordination technology
