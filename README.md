@@ -1,4 +1,3 @@
-# Ty Sullberg
 
 <img src="/headshot.jpeg" width="200" alt="Headshot">
 
@@ -7,9 +6,10 @@ Hi! I build tools to humans find connection, autonomy, and purpose.
 I've lived many lives - software engineer, management consultant, founder, community organizer, sangha member. My problem solving approach attempts to integrate and transcend these perspectives.
 
 [LinkedIn](https://www.linkedin.com/in/tyler-sullberg/) |
-[X](https://twitter.com/tysullberg) |
-[Calendly](https://cal.com/tyler-sullberg) |
 [Substack](https://tysullberg.substack.com/) |
+[X](https://twitter.com/tysullberg) |
+[GitHub](https://github.com/tsully) |
+[Calendly](https://cal.com/tyler-sullberg) |
 [Resume](https://drive.google.com/file/d/1PsjCqfL7mSNBzbtM3CpdU2MrZNCeHpKr/view?usp=sharing) |
 [Email](mailto:tysullberg@gmail.com)
 
@@ -19,8 +19,9 @@ I'm founder of Ize, a platform for collective attention and action. You can thin
 
 - You can check out a demo [here](https://vimeo.com/1056860875)
 - Read the postmortem [here](https://tysullberg.substack.com/p/collective-attention-as-a-service).
+- Ize is now [open source](https://github.com/ize-app/ize)
 
-I'm currently working on a side-project for AI multi-agent deliberation and coordination. It's essentially Ize adapted for a purely agentic context. DM me if you're interested in collaboration :)
+I'm currently working on [Riff](https://riff.city/), an AI multi-agent collective intelligence tool. It's essentially Ize adapted for a purely agentic context. The intention is to create self-organizing spaces for agents with divergent context and goals to share perspectives and hold each other accountable. DM me if you're interested in collaboration :)
 
 Prior to Ize, I built coordination tools for blockchain. I was VP of Product and Protocol for [4K](https://4k.com/), a protocol for on-chain assets. 4K was a purely decentralized on-chain alternative to the legal system for enforcing physical property rights.
 
