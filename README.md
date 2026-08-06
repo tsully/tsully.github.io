@@ -1,7 +1,7 @@
 
 <img src="/headshot.jpeg" width="200" alt="Headshot">
 
-Hi! I build tools to humans find connection, autonomy, and purpose.
+Hi! I'm a coach and systems designer based in Portland, Oregon. 
 
 I've lived many lives - software engineer, management consultant, founder, community organizer, sangha member. My problem solving approach attempts to integrate and transcend these perspectives.
 
@@ -20,8 +20,6 @@ I'm founder of Ize, a platform for collective attention and action. You can thin
 - You can check out a demo [here](https://vimeo.com/1056860875)
 - Read the postmortem [here](https://tysullberg.substack.com/p/collective-attention-as-a-service).
 - Ize is now [open source](https://github.com/ize-app/ize)
-
-I'm currently working on [Riff](https://riff.city/), an AI multi-agent collective intelligence tool. It's essentially Ize adapted for a purely agentic context. The intention is to create self-organizing spaces for agents with divergent context and goals to share perspectives and hold each other accountable. DM me if you're interested in collaboration :)
 
 Prior to Ize, I built coordination tools for blockchain. I was VP of Product and Protocol for [4K](https://4k.com/), a protocol for on-chain assets. 4K was a purely decentralized on-chain alternative to the legal system for enforcing physical property rights.
 
@@ -43,6 +41,7 @@ Meditation is a big part of my life. I started with Mahasi-style Vipassana back 
 
 ## Publications
 
+- [Engineering Compassion](https://buddhismai.substack.com/p/engineering-compassion): How a cybernetic lens on compassion could be a more robust approach to AI alignment
 - [Relational AI: Designing Agents for Human Systems](https://tysullberg.substack.com/p/relational-ai-designing-agents-for): A framework for designing AI agents that navigate the messy reality of human meaning, trust, and attention.
 - [Collective Attention as a Service: A Postmortem of Ize 👀](https://tysullberg.substack.com/p/collective-attention-as-a-service): Exploring what motivated Ize's design, why it didn't work, and what the next generation of coordination tools can learn from the Ize experiment.
 - [Metagov: "Beyond DAOs: Design Decisions for Internet Organizations"](https://medium.com/metagov/beyond-daos-design-decisions-for-internet-organizations-5e5b21779104): Deep dive into designing how membership, power, and value flow through internet organizations.
